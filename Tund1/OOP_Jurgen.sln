@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Jurgen", "OOP_Jurgen.csproj", "{73BC635F-25BC-45A8-B925-FBEA47658D9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tund1", "Tund1", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_2", "..\OOP_2\OOP_2.csproj", "{D4FE39FE-8FA4-4A7E-8F13-84BD607D23BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "transport", "transport", "{ECEC3AE7-7FD5-4FA6-A7AB-A8B286D96AB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "geomeetr", "geomeetr", "{6DE2B6D1-38FD-41CF-965C-85D53C9D22E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geomeetriliste", "..\Geomeetriliste\Geomeetriliste.csproj", "{D150006B-6A61-4DA7-9204-5176568AD33A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ülesanne2", "ülesanne2", "{1DA462A2-0DD6-4A27-B6C1-B2D74DD0BCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ulesanne2", "..\ulesanne2\ulesanne2.csproj", "{9B015453-7179-4901-924C-F87B4ECE7E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BC635F-25BC-45A8-B925-FBEA47658D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BC635F-25BC-45A8-B925-FBEA47658D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BC635F-25BC-45A8-B925-FBEA47658D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BC635F-25BC-45A8-B925-FBEA47658D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FE39FE-8FA4-4A7E-8F13-84BD607D23BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FE39FE-8FA4-4A7E-8F13-84BD607D23BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FE39FE-8FA4-4A7E-8F13-84BD607D23BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FE39FE-8FA4-4A7E-8F13-84BD607D23BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D150006B-6A61-4DA7-9204-5176568AD33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D150006B-6A61-4DA7-9204-5176568AD33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D150006B-6A61-4DA7-9204-5176568AD33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D150006B-6A61-4DA7-9204-5176568AD33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B015453-7179-4901-924C-F87B4ECE7E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B015453-7179-4901-924C-F87B4ECE7E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B015453-7179-4901-924C-F87B4ECE7E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B015453-7179-4901-924C-F87B4ECE7E00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{73BC635F-25BC-45A8-B925-FBEA47658D9B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D4FE39FE-8FA4-4A7E-8F13-84BD607D23BF} = {ECEC3AE7-7FD5-4FA6-A7AB-A8B286D96AB4}
+		{D150006B-6A61-4DA7-9204-5176568AD33A} = {6DE2B6D1-38FD-41CF-965C-85D53C9D22E1}
+		{9B015453-7179-4901-924C-F87B4ECE7E00} = {1DA462A2-0DD6-4A27-B6C1-B2D74DD0BCAF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F3583D1-8A78-4A3A-8440-21964687509A}
+	EndGlobalSection
+EndGlobal
